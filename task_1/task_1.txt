@@ -1,3 +1,5 @@
+// у тебя файл называется task_1.txt, а должен Task_1.java
+// иерархия должны быть такой: homework_1.task_1.Task_1.java
 public class HelloDzmitry {
     public static void main(String[] args) {
         System.out.println("Привет " + args[0]);
